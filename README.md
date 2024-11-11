@@ -1,5 +1,5 @@
 # Emergency Hamburg Launcher
-> Alert! this is discountinued, and support will not be added.
+> This app is offically back to support, but less support will be added due to a bug in the app.
 
 This app allows you to open **Emergency Hamburg** faster.
 
